@@ -1,0 +1,5 @@
+url = http://<ip>:5000/api/RSA-auth-challenge/<signature>
+
+signature = digitally signed string "admin"
+go to url to get the flag.
+server script is also available.
