@@ -20,7 +20,7 @@ As its written in Challenge Description that we have string **"admin"** and we h
 i.e we have to encrypt string **"admin"** using RSA key.
 After encrypting the string we have to submit that the output website,
 
-http://18.222.210.252:6660/api/Baby-RSA-challenge/<output>
+http://18.222.210.252:6660/api/Baby-RSA-challenge/output_value
 
 If the data is correct it will return flag.
 
