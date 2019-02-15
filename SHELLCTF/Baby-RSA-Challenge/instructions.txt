@@ -1,0 +1,4 @@
+
+URL = http://<ip>:<port>/api/Baby-RSA-challenge/<data>
+
+sign the string "admin" with the given RSA Key, and make a GET request to the given URL to get the flag.
