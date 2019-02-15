@@ -1,0 +1,3 @@
+the flag has been encrypted with the given code and the parameters are given.
+can you get the flag!
+flag format : shellctf{some_string}
